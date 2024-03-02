@@ -20,9 +20,7 @@ O objetivo deste repositório é proporcionar exemplos práticos e exercícios p
 
 # Estrutura do Repositório
 
-  - **Exercicios/:** Este diretório contém uma variedade de exercícios e exemplos de POO em Python. Cada arquivo ou diretório é dedicado a um conceito específico, com instruções claras sobre como resolver o problema proposto.
-
-  - **Projetos/:** Aqui você encontrará projetos mais complexos que aplicam os princípios de POO em cenários do mundo real. Esses projetos visam consolidar o conhecimento adquirido e desenvolver habilidades práticas de programação orientada a objetos.
+  - **Exercicios/:** Este diretório contém uma variedade de exercícios de POO em Python. Tudos os problemas propostos estão em um único arquivo chamado 'Python_Orientado_a_Objetos_Exercicíos.ipynb'.
 
 # Como Contribuir
 
