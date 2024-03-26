@@ -13,6 +13,7 @@ O objetivo deste repositório é proporcionar exemplos práticos e exercícios p
   - Definição de classes e objetos
   - Atributos e métodos
   - Abstração
+  - Encapsulamento
   - Herança
   - Polimorfismo
   - Métodos e atributos estáticos
