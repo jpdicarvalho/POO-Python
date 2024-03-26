@@ -12,13 +12,15 @@ O objetivo deste repositório é proporcionar exemplos práticos e exercícios p
 
   - Definição de classes e objetos
   - Atributos e métodos
-  - Métodos e atributos estáticos
-  - Herança
   - Abstração
+  - Herança
+  - Polimorfismo
+  - Métodos e atributos estáticos
+
 
 # Estrutura do Repositório
 
-  - **Exercicios/:** Este diretório contém uma variedade de exercícios de POO em Python. Tudos os problemas propostos estão em um único arquivo chamado 'Python_Orientado_a_Objetos_Exercicíos.ipynb'. Neste arquivo, temos inicialmente um descrição do problema e, em seguida, sua solução proposta.
+  - **Exercicios/:** Este diretório contém uma variedade de exercícios de POO em Python. Cada arquivo, contém basicamente uma descrição do problema e, em seguida, sua solução proposta.
 
 # Como Contribuir
 
